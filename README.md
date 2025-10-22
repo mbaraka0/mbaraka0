@@ -28,7 +28,7 @@ I take pride in ensuring smooth workflows, protecting confidentiality, and using
 ### 🌍 Let’s Connect  
 📧 **Email:** [mbarakao@gmail.com](mailto:mbarakao@gmail.com)  
 📱 **Phone:** +254 716 620 373  
-🔗 **LinkedIn:** [Add your LinkedIn profile link here once ready]  
+🔗 **LinkedIn:** []https://www.linkedin.com/in/moses-munyaka-840a21a7  
 
 ---
 
