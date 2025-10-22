@@ -20,9 +20,8 @@ I take pride in ensuring smooth workflows, protecting confidentiality, and using
 
 ### 📂 Featured Work  
 - [📄 Cover Letter - Personal Assistant, iNet Africa]()https://github.com/mbaraka0/Professional-documents-/blob/main/Moses_Baraka_Munyaka_Personal_Assistant_Cover_Letter_iNet_Africa.pdf  
-- [📁 Professional CV](https://github.com/YOUR-USERNAME/YourRepositoryName/blob/main/Moses_Baraka_Munyaka_CV.pdf)  
-- [🗂️ Office Templates & Reports](https://github.com/YOUR-USERNAME/YourRepositoryName) 
-*(Once you upload your PDF files, replace `YOUR-USERNAME` and `YourRepositoryName` in the links above with your real GitHub details.)*  
+- [📁 Professional CV]()https://github.com/mbaraka0/Professional-documents-/blob/main/Moses_Munyaka%20CV.pdf  
+- [🗂️ Office Templates & Reports](https://github.com/YOUR-USERNAME/YourRepositoryName)  
 ---
 
 ### 🌍 Let’s Connect  
