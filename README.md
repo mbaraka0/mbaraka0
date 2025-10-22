@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Moses Baraka Munyaka  
 
-<!--
-**mbaraka0/mbaraka0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Personal & Administrative Assistant | Project Support | NGO & Corporate Experience  
 
-Here are some ideas to get you started:
+I’m an organized and dependable professional with over 4 years of experience supporting executives, managing administrative operations, and coordinating logistics in dynamic NGO and office environments.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I take pride in ensuring smooth workflows, protecting confidentiality, and using digital tools to enhance efficiency. My experience spans project coordination, travel planning, and executive communication support — always with attention to detail and professionalism.  
+
+---
+
+### 🛠️ Skills & Tools  
+- Office & Executive Support  
+- Calendar & Travel Management  
+- Document Preparation & Filing  
+- Microsoft Office & Google Workspace  
+- Trello, Asana & Slack for Task Coordination  
+- Communication & Reporting  
+---
+
+### 📂 Featured Work  
+- [📄 Cover Letter - Personal Assistant, iNet Africa](#)  
+- [📁 Professional CV (coming soon)](#)  
+- [🗂️ Office Templates & Reports (sample uploads)](#)  
+
+---
+
+### 🌍 Let’s Connect  
+📧 **Email:** [mbarakao@gmail.com](mailto:mbarakao@gmail.com)  
+📱 **Phone:** +254 716 620 373  
+🔗 **LinkedIn:** [()](https://www.linkedin.com/in/moses-munyaka-840a21a7)  
+
+---
+
+> _“Efficiency is doing things right; effectiveness is doing the right things.”_  
+> — Peter Drucker
