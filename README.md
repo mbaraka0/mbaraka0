@@ -15,19 +15,20 @@ I take pride in ensuring smooth workflows, protecting confidentiality, and using
 - Microsoft Office & Google Workspace  
 - Trello, Asana & Slack for Task Coordination  
 - Communication & Reporting  
+
 ---
 
 ### 📂 Featured Work  
-- [📄 Cover Letter - Personal Assistant, iNet Africa](#)  
-- [📁 Professional CV (coming soon)](#)  
-- [🗂️ Office Templates & Reports (sample uploads)](#)  
-
+- [📄 Cover Letter - Personal Assistant, iNet Africa](https://github.com/YOUR-USERNAME/YourRepositoryName/blob/main/Moses_Baraka_Munyaka_Cover_Letter.pdf)  
+- [📁 Professional CV](https://github.com/YOUR-USERNAME/YourRepositoryName/blob/main/Moses_Baraka_Munyaka_CV.pdf)  
+- [🗂️ Office Templates & Reports](https://github.com/YOUR-USERNAME/YourRepositoryName) 
+*(Once you upload your PDF files, replace `YOUR-USERNAME` and `YourRepositoryName` in the links above with your real GitHub details.)*  
 ---
 
 ### 🌍 Let’s Connect  
 📧 **Email:** [mbarakao@gmail.com](mailto:mbarakao@gmail.com)  
 📱 **Phone:** +254 716 620 373  
-🔗 **LinkedIn:** [()](https://www.linkedin.com/in/moses-munyaka-840a21a7)  
+🔗 **LinkedIn:** [Add your LinkedIn profile link here once ready]  
 
 ---
 
